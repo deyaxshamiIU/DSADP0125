@@ -1,3 +1,2 @@
 # DSADP0125
-Ich bin Mohammad
-Habe das Programm mit Hilfe gemacht.
+Ich bin Mohammad, 22 Jahre alt
